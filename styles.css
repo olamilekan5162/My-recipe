@@ -5,3 +5,7 @@
 .kitchen{
     color: orange;
 }
+
+a:hover {
+    color: orange;
+}
